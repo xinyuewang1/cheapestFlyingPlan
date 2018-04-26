@@ -162,7 +162,7 @@ def bestRoundTripV3(plane,nodes,aircraft,airportatlas,cc,ci,theDict,ll=False):
     
     allCombinations = distanceBlackBox(plane, nodes,aircraft,airportatlas)
     if allCombinations == None:
-        return
+        return 
     home = nodes.pop(0)
     cheapestRoute=[]
     cheapestPrice=float("inf")

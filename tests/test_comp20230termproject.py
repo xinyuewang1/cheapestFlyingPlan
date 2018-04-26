@@ -7,9 +7,13 @@ import unittest
 from click.testing import CliRunner
 import cli
 from xinyuewang.Aircraft import Aircraft
-from xinyuewang.cost import distanceBlackBox
+from xinyuewang.cost import distanceBlackBox, bestRoundTripV3
 from xinyuewang.AirportAtlas import AirportAtlas
 from xinyuewang.Airport import Airport
+from xinyuewang.CurrencyOfCountry import CurrencyOfCountry
+from xinyuewang.CurrencyInfo import CurrencyInfo
+from xinyuewang.Graphs import RoutePriceSum
+from xinyuewang.price import refuelCost
 
 class TestComp20230termproject(unittest.TestCase):
     """Tests for `xinyuewang` package."""
@@ -19,6 +23,10 @@ class TestComp20230termproject(unittest.TestCase):
     ac.loadData()
     aa = AirportAtlas()
     aa.loadData()
+    cc = CurrencyOfCountry()
+    cc.loadData()
+    ci = CurrencyInfo()
+    ci.loadData()
 
     def test_command_line_interface(self):
         """Test the CLI."""
@@ -75,8 +83,36 @@ class TestComp20230termproject(unittest.TestCase):
     # out of range, the two nodes will not be linked...
     def test_distanceBlackbox(self):
         assert distanceBlackBox('777',self.route,self.ac,self.aa) 
-    
-    
-
+        assert distanceBlackBox('fakeplane', self.route, self.ac, self.aa) == None
         
+    def test_bestroundtripv3(self):
+        assert bestRoundTripV3('fakeplane', self.route, self.ac, self.aa,self.cc,self.ci,cli.theDict,False) ==None
+        assert len(bestRoundTripV3('A321', self.route, self.ac, self.aa,self.cc,self.ci,cli.theDict,False)) == 2
+        assert len(bestRoundTripV3('A321', self.route, self.ac, self.aa,self.cc,self.ci,cli.theDict,True)) == 3
+        
+    def test_currencyinfo(self):
+        with self.assertRaises(Exception):
+            self.ci.loadData('somefile')
+        
+        self.assertIsInstance(self.ci.getCurrencyInfo(), dict)
+        with self.assertRaises(KeyError):
+            self.ci.getCurrencyRate('cod')
+            self.ci.getCurrencyRate('code')
+        self.assertEqual(self.ci.getCurrencyRate('CNY'), 0.1545)
     
+    def test_CurrencyOfCountry(self):
+        with self.assertRaises(Exception):
+            self.cc.loadData('whatever')
+        self.assertIsInstance(self.cc.getData(),dict)
+        with self.assertRaises(KeyError):
+            self.cc.getCurrency('xinhi')
+        self.assertEqual(self.cc.getCurrency('Cuba'),'CUP')
+        
+    def test_RoutePriceSum(self):
+        assert len(RoutePriceSum(self.route, self.aa, self.cc, self.ci, cli.theDict)) ==2
+
+    def test_refuelCost(self):
+        '''most expensive part'''
+        self.assertAlmostEqual(refuelCost('LHR','DEN', self.aa, self.cc, self.ci),7496.11*0.9488,delta=5)
+        
+        

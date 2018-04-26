@@ -28,26 +28,15 @@ class CurrencyInfo:
         return self.__currencyInfo
     
     def getCurrencyRate(self,code):
-        if len(code)==3:
+        try:
+            if len(code)!=3:
+                raise KeyError
             # case insensitive
             code = code.upper()
-            try:
-                #info = self.__currencyInfo[code]
-                return self.__currencyInfo[code]['toEUR']
-            except KeyError:
-                sys.exit("[Error 1] Invalid currency code.")
-        else:
-            sys.exit("[Error 1] Invalid currency code.")
             
-'''
-df = pd.read_csv('../input/currencyrates.csv',names=["CountryName","CurrencyCode","toEUR","EURto"]) 
-currencyInfo=df.set_index("CurrencyCode").to_dict('index')
-print(currencyInfo)
-c = CurrencyInfo()
-c.loadData()
-
-c.getCurrencyInfo()
-
-
-c.getCurrencyRate('adf')
-'''
+                #info = self.__currencyInfo[code]
+            return self.__currencyInfo[code]['toEUR']
+        except KeyError:
+            print("[Error 1]CurrencyInfo- getCurrencyRate- Invalid currency code.")
+            raise
+    
