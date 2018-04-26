@@ -1,0 +1,62 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : TMR → ENH ~ KBZ ~ LSP ~ JJN → TMR [Bell Boeing BB1 Helicopter 🛩 ]
+😩 Not Feasible   : TMR → ENH ~ KBZ ~ LSP ~ JJN → TMR [Bell Boeing BB1 Helicopter 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : DGE → HTA ~ PPW ~ NZA ~ KPC → DGE [Airbus A319 Jet 🛩 ]
+😩 Not Feasible   : DGE → HTA ~ PPW ~ NZA ~ KPC → DGE [Airbus A319 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : RSW → BUR ~ KWZ ~ CZM ~ YGL → RSW [Boeing 767 Jet 🛩 ]
+😩 Not Feasible   : RSW → BUR ~ KWZ ~ CZM ~ YGL → RSW [Boeing 767 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : CNQ → OOK ~ BZR ~ PEF ~ GXQ → CNQ [Douglas DC8 Jet 🛩 ]
+😩 Not Feasible   : CNQ → OOK ~ BZR ~ PEF ~ GXQ → CNQ [Douglas DC8 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : SGU → RJL ~ CBL ~ LUO ~ SHO → SGU [Boeing  V22 Turboprop 🛩 ]
+😩 Not Feasible   : SGU → RJL ~ CBL ~ LUO ~ SHO → SGU [Boeing  V22 Turboprop 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : LYT → RAJ ~ LAN ~ LYN ~ EKN → LYT [BAE BAE146 Turboprop 🛩 ]
+😩 Not Feasible   : LYT → RAJ ~ LAN ~ LYN ~ EKN → LYT [BAE BAE146 Turboprop 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : PVA → TJS ~ WRG ~ ESC ~ PWM → PVA [Boeing 767 Jet 🛩 ]
+😩 Not Feasible   : PVA → TJS ~ WRG ~ ESC ~ PWM → PVA [Boeing 767 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : DUE → HDF ~ VLG ~ GTA ~ SFQ → DUE [Boeing 767 Jet 🛩 ]
+😩 Not Feasible   : DUE → HDF ~ VLG ~ GTA ~ SFQ → DUE [Boeing 767 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : AMZ → KRO ~ HBG ~ QKT ~ CYR → AMZ [Fokker F50 Turboprop 🛩 ]
+😩 Not Feasible   : AMZ → KRO ~ HBG ~ QKT ~ CYR → AMZ [Fokker F50 Turboprop 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : BMM → ALR ~ UT3 ~ KWY ~ XFN → BMM [Boeing  V22 Turboprop 🛩 ]
+😩 Not Feasible   : BMM → ALR ~ UT3 ~ KWY ~ XFN → BMM [Boeing  V22 Turboprop 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : UUU → BWG ~ KUU ~ NDB ~ HMB → UUU [Airbus A400M Turboprop 🛩 ]
+😩 Not Feasible   : UUU → BWG ~ KUU ~ NDB ~ HMB → UUU [Airbus A400M Turboprop 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : LUP → EKI ~ YPO ~ MRV ~ AGM → LUP [Airbus A321 Jet 🛩 ]
+🚀 Cheapest Path  : LUP → EKI → YPO → MRV → AGM → LUP [€30,672.26]
+🚀 Cheapest Path  : LUP → AGM → MRV → YPO → EKI → LUP [€30,672.26]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : MNZ → X01 ~ THD ~ KLW ~ ELS → MNZ [Sikorsky SIS99 Helicopter 🛩 ]
+😩 Not Feasible   : MNZ → X01 ~ THD ~ KLW ~ ELS → MNZ [Sikorsky SIS99 Helicopter 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : MEK → BJF ~ MMH ~ ARA ~ WUS → MEK [Airbus A319 Jet 🛩 ]
+😩 Not Feasible   : MEK → BJF ~ MMH ~ ARA ~ WUS → MEK [Airbus A319 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : TSV → TJU ~ ATW ~ BQN ~ POL → TSV [BAE BAE146 Turboprop 🛩 ]
+😩 Not Feasible   : TSV → TJU ~ ATW ~ BQN ~ POL → TSV [BAE BAE146 Turboprop 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : MAM → BXR ~ ERS ~ GDN ~ NBX → MAM [Boeing 747 Jet 🛩 ]
+🚀 Cheapest Path  : MAM → NBX → ERS → BXR → GDN → MAM [€47,313.41]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : WGE → SAN ~ YPX ~ NGS ~ MOA → WGE [Airbus A319 Jet 🛩 ]
+😩 Not Feasible   : WGE → SAN ~ YPX ~ NGS ~ MOA → WGE [Airbus A319 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : OLA → OLT ~ ELU ~ EGR ~ MNZ → OLA [Boeing 767 Jet 🛩 ]
+🚀 Cheapest Path  : OLA → OLT → MNZ → ELU → EGR → OLA [€25,842.14]
+🚀 Cheapest Path  : OLA → EGR → ELU → MNZ → OLT → OLA [€25,842.14]
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : PAZ → PES ~ EBO ~ BOG ~ YZX → PAZ [Airbus A319 Jet 🛩 ]
+😩 Not Feasible   : PAZ → PES ~ EBO ~ BOG ~ YZX → PAZ [Airbus A319 Jet 🛩 ] 😢🤧
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+🗼 FLIGHT PLAN    : CAW → ACR ~ 3D2 ~ TVL ~ ORG → CAW [Fokker F50 Turboprop 🛩 ]
+😩 Not Feasible   : CAW → ACR ~ 3D2 ~ TVL ~ ORG → CAW [Fokker F50 Turboprop 🛩 ] 😢🤧

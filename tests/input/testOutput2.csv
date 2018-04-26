@@ -1,0 +1,501 @@
+,feasibility,fuel_cost,0,1,2,3,4,5
+0,Feasible,"1,658.62", LOV, BHI , BBO , VCS , VKO ,LOV 
+1,Feasible,"11,646.06", YOD, ZML , CGO , EMD , SMR ,YOD 
+2,Feasible,"11,957.73", AUY, BPX , ABT , YVB , VOK ,AUY 
+3,Feasible,"12,019.18", JOK, TMP , YUL , STE , KPC ,JOK 
+4,Feasible,"12,144.75", VCV, COR , LPG , CZW , YKX ,VCV 
+5,Feasible,"12,520.55", LIF, PIO , DKR , UUU , VEL ,LIF 
+6,Feasible,"12,709.83", MEY, VNA , LYI , ZML , ARE ,MEY 
+7,Feasible,"12,872.89", SHM, BEZ , PZI , QSF , AUW ,SHM 
+8,Feasible,"12,932.19", UYN, KPB , YGV , POL , NLA ,UYN 
+9,Feasible,"12,953.32", VOH, TTU , RHO , 3W2 , OAJ ,VOH 
+10,Feasible,"13,386.45", MJM, FJR , FMO , HVR , DSO ,MJM 
+11,Feasible,"13,561.48", BMY, GLK , ASB , BRR , GAI ,BMY 
+12,Feasible,"13,856.53", ANN, SHR , GNY , TJS , YNZ ,ANN 
+13,Feasible,"14,072.09", AGF, SKB , EFD , YCR , LBZ ,AGF 
+14,Feasible,"15,589.46", GHB, ZNZ , HEN , YSJ , UGN ,GHB 
+15,Feasible,"15,663.68", MLG, XTG , REY , GEU , BJV ,MLG 
+16,Feasible,"15,959.61", BRW, GUL , SYO , HOV , PPW ,BRW 
+17,Feasible,"16,726.60", SWQ, KTR , MXY , NXX , MJD ,SWQ 
+18,Feasible,"16,745.63", SHM, HAK , HER , CWL , YCB ,SHM 
+19,Feasible,"17,001.83", DKI, GNA , BJF , YHU , ALI ,DKI 
+20,Feasible,"17,042.08", BRS, KDI , VLS , KGE , YNM ,BRS 
+21,Feasible,"17,268.85", FAV, SNY , ZAR , SAW , KEK ,FAV 
+22,Feasible,"18,500.41", NTL, ZAH , YPY , YWH , JHM ,NTL 
+23,Feasible,"20,418.53", QSF, SNN , HHH , EMD , PJA ,QSF 
+24,Feasible,"20,990.43", HAK, NFO , YRA , YMG , CSF ,HAK 
+25,Feasible,"28,263.04", KIR, DLE , CMR , NON , MTN ,KIR 
+26,Feasible,"3,028.03", HDB, LDN , PZI , JZH , SKX ,HDB 
+27,Feasible,"30,461.18", LML, SBA , CID , O03 , ZMU ,LML 
+28,Feasible,"31,788.30", KUC, HPB , MHK , FDH , PYR ,KUC 
+29,Feasible,"38,957.47", IOM, BRO , WSZ , QFZ , XWW ,IOM 
+30,Feasible,"4,199.99", AKR, KYA , SCV , XDB , LPY ,AKR 
+31,Feasible,"4,895.90", ADF, KYD , WDH , SFD , TED ,ADF 
+32,Feasible,"6,672.69", SGD, BMK , SUG , TSU , XIL ,SGD 
+33,Feasible,"6,864.34", SEM, VST , PGU , OBX , CVM ,SEM 
+34,Feasible,"8,468.32", SMO, RTW , MXX , YPQ , CDS ,SMO 
+35,Feasible,"8,732.01", LSY, AHE , BYO , BLR , LXG ,LSY 
+36,Feasible,"9,090.75", DVO, PFQ , LEQ , PBM , MUB ,DVO 
+37,Feasible,"9,434.18", TTR, KSA , NCS , BEL , RKE ,TTR 
+38,Feasible,"13,740.15", CEF, OKN , ZRJ , PSC , MLS ,CEF 
+39,Feasible,"15,591.74", MPY, GSQ , EVE , ZPB , CXL ,MPY 
+40,Feasible,"16,236.37", BQT, OSH , LES , ZAT , PTG ,BQT 
+41,Feasible,"17,974.94", YPM, PNB , MSU , MVV , FOA ,YPM 
+42,Feasible,"21,635.81", BCO, AMM , COF , QSA , NGX ,BCO 
+43,Feasible,"3,265.61", MGQ, ZAG , KSK , LRV , JDO ,MGQ 
+44,Feasible,"9,145.41", ENH, LSZ , FNC , YHN , GWD ,ENH 
+45,Feasible,"10,166.45", AQJ, RRS , YQG , MYJ , TEQ ,AQJ 
+46,Feasible,"10,315.62", 2B2, ROA , MMH , ZAL , CIJ ,2B2 
+47,Feasible,"10,490.78", BUU, SST , DUE , IAS , HUL ,BUU 
+48,Feasible,"11,414.81", TYE, NYT , JIB , VDS , CWI ,TYE 
+49,Feasible,"11,583.92", STK, OTU , BIX , PAH , KXK ,STK 
+50,Feasible,"13,673.88", UVF, GLQ , YJS , RAZ , BCW ,UVF 
+51,Feasible,"16,341.47", UTC, HMN , WFB , ZAJ , THF ,UTC 
+52,Feasible,"18,388.56", CPX, RIC , PUB , CGN , SLA ,CPX 
+53,Feasible,"19,031.18", QPP, KTG , CYF , BSC , YGW ,QPP 
+54,Feasible,"19,872.43", YLD, MVT , PUK , PGA , MHG ,YLD 
+55,Feasible,"20,588.11", UIN, RGS , UBP , ILI , RAP ,UIN 
+56,Feasible,"21,779.05", MQT, BDR , HOM , GNI , WJA ,MQT 
+57,Feasible,"22,783.19", BIL, AJU , NCS , LRH , LUR ,BIL 
+58,Feasible,"23,995.98", AXJ, ESH , SDE , BMG , JAC ,AXJ 
+59,Feasible,"6,137.91", DSN, ULX , WVB , ZAH , SLD ,DSN 
+60,Feasible,"9,147.71", MME, RMG , VVO , MUX , PKV ,MME 
+61,Feasible,"11,196.00", AWZ, KSH , PHO , KKH , YQL ,AWZ 
+62,Feasible,"11,911.93", DZN, YXY , POC , CUR , UKA ,DZN 
+63,Feasible,"12,205.74", CZG, CEK , CZN , MLD , ERI ,CZG 
+64,Feasible,"12,953.60", AAE, LWN , VEE , JOT , NEC ,AAE 
+65,Feasible,"16,258.16", YBZ, FDF , KHW , ULV , SPZ ,YBZ 
+66,Feasible,"16,804.04", YXC, BBM , QUA , YYZ , LBL ,YXC 
+67,Feasible,"17,689.46", MCM, MYG , TLH , TTJ , GSS ,MCM 
+68,Feasible,"17,780.02", KCT, CTL , HVG , KPC , HGR ,KCT 
+69,Feasible,"17,925.24", BMW, GYL , PNP , UIT , HHI ,BMW 
+70,Feasible,"21,127.76", HVN, CBT , JRH , BDB , JON ,HVN 
+71,Feasible,"21,654.72", ZRP, GIC , MJK , MUW , KEL ,ZRP 
+72,Feasible,"25,390.59", FDW, WKJ , HID , VTS , IWD ,FDW 
+73,Feasible,"5,125.88", ZBP, ASH , MQT , PJM , NGU ,ZBP 
+74,Feasible,"8,539.35", SOB, ENF , IQQ , UVA , TRK ,SOB 
+75,Feasible,"8,660.89", JYL, MKU , LKG , TTR , EYK ,JYL 
+76,Feasible,"8,819.74", CIY, MAR , BKD , ZUN , MCX ,CIY 
+77,Feasible,"9,371.11", PKB, MCG , PBV , PLD , BHM ,PKB 
+78,Feasible,"9,825.40", LSA, DRK , DLH , KYS , RKE ,LSA 
+79,Feasible,"10,415.82", IGB, BMW , SEY , YPE , HYS ,IGB 
+80,Feasible,"12,519.18", YHY, IXZ , HUI , KLL , ZSJ ,YHY 
+81,Feasible,"12,880.04", SZX, PRY , OLC , EAT , CLS ,SZX 
+82,Feasible,"13,915.27", HHN, CFR , ADM , ELY , KLC ,HHN 
+83,Feasible,"14,278.30", AOT, BHB , KHW , NAW , HRE ,AOT 
+84,Feasible,"17,046.69", MZP, KWM , BBO , BJZ , VDR ,MZP 
+85,Feasible,"17,088.52", AJL, ADX , 0G7 , HKD , GAN ,AJL 
+86,Feasible,"17,476.65", LHC, FKB , NBS , YAZ , SCL ,LHC 
+87,Feasible,"18,095.98", ANR, OSN , PBD , SAY , JPR ,ANR 
+88,Feasible,"18,533.52", BOH, SFS , WEL , CWB , WAL ,BOH 
+89,Feasible,"19,556.50", MKO, LKK , JYV , CER , KIF ,MKO 
+90,Feasible,"19,953.89", HTL, HLG , AUF , ASD , E63 ,HTL 
+91,Feasible,"2,884.79", PDV, PKN , ISB , SGD , RCS ,PDV 
+92,Feasible,"27,513.19", IWS, BRN , CBO , BLT , KVL ,IWS 
+93,Feasible,"31,206.74", RMS, AMM , ABE , BLD , LTX ,RMS 
+94,Feasible,"4,153.49", TRC, TPL , CEF , TLU , RES ,TRC 
+95,Feasible,"7,607.27", GKE, BHD , QOT , IXL , CMR ,GKE 
+96,Feasible,"10,384.62", MGQ, DIW , JRO , OLC , YSY ,MGQ 
+97,Feasible,"13,855.56", COI, BMX , LED , ONQ , KYS ,COI 
+98,Feasible,"14,278.32", GAJ, COH , BIQ , DAW , ECG ,GAJ 
+99,Feasible,"14,543.57", AXJ, YOC , GGT , ACC , SDV ,AXJ 
+100,Feasible,"15,185.52", AGS, MHV , YXZ , QRW , PSE ,AGS 
+101,Feasible,"16,873.25", CSO, MLC , OSN , WMP , UTN ,CSO 
+102,Feasible,"17,600.91", BXH, ZSN , HHN , PLL , K03 ,BXH 
+103,Feasible,"18,174.72", GPT, XCD , YNS , CMX , REI ,GPT 
+104,Feasible,"18,229.20", WSJ, GTN , MTY , PID , 1G4 ,WSJ 
+105,Feasible,"19,970.92", JMK, CFB , AAO , CKV , ELY ,JMK 
+106,Feasible,"24,344.87", WTE, 19A , DAW , QQW , MNL ,WTE 
+107,Feasible,"3,375.39", SCW, PAS , CSK , BSX , BZL ,SCW 
+108,Feasible,"36,979.13", NGZ, KAT , CVO , NQT , BZZ ,NGZ 
+109,Feasible,"4,807.75", XGB, LOK , GDA , ADF , KUT ,XGB 
+110,Feasible,"5,485.15", WHF, KON , SVX , AAH , IBE ,WHF 
+111,Feasible,"5,574.93", GME, STR , UAK , C89 , CWI ,GME 
+112,Feasible,"6,407.34", FIE, AXD , PUU , MQH , SOO ,FIE 
+113,Feasible,"6,958.20", HUX, JOK , ODB , DYU , NAQ ,HUX 
+114,Feasible,"9,087.90", GSP, FUT , UIK , PZB , CEE ,GSP 
+115,Feasible,"11,162.02", QPZ, BBM , TED , TSS , OMO ,QPZ 
+116,Feasible,"11,664.78", ESH, KOI , GER , IAG , QXB ,ESH 
+117,Feasible,"13,944.45", MTM, TIA , FWM , C02 , VCV ,MTM 
+118,Feasible,"15,452.06", GUS, 38W , TML , GHB , NIP ,GUS 
+119,Feasible,"16,016.20", GZO, KKC , QNC , YPO , VOK ,GZO 
+120,Feasible,"16,412.35", NCA, KZB , PTU , BMX , SJU ,NCA 
+121,Feasible,"17,096.44", BBN, DEZ , LMO , MEM , RKS ,BBN 
+122,Feasible,"17,837.13", COU, RNL , LIK , MZR , SOY ,COU 
+123,Feasible,"18,512.76", PEU, RSI , ERN , QPZ , BTT ,PEU 
+124,Feasible,"18,731.83", MKK, AEP , LBE , BYN , ATP ,MKK 
+125,Feasible,"19,932.74", FEL, RMP , LNV , MZT , YOO ,FEL 
+126,Feasible,"21,201.76", YHF, NY9 , DLF , DLC , MHZ ,YHF 
+127,Feasible,"21,275.68", REC, YCB , KOZ , MTL , GUW ,REC 
+128,Feasible,"5,928.90", YRG, SJI , CUA , HTL , YIF ,YRG 
+129,Feasible,"6,506.89", GDN, KNO , YCS , PAN , TIY ,GDN 
+130,Feasible,"8,279.48", CWC, CMF , BOO , CDR , LWN ,CWC 
+131,Feasible,"9,352.75", TNJ, QPJ , GLQ , MQT , YSF ,TNJ 
+132,Feasible,"9,939.83", NUW, FGI , ABA , URS , PYJ ,NUW 
+133,Feasible,"10,554.10", OKO, LHW , ALY , PSH , PPC ,OKO 
+134,Feasible,"13,521.21", L52, FAF , CSK , FLR , PWE ,L52 
+135,Feasible,"17,966.85", QQW, YPL , NXP , N69 , CVF ,QQW 
+136,Feasible,"7,269.39", PYM, OXC , SCE , HDO , NAQ ,PYM 
+137,Feasible,"10,394.88", VAK, BIL , LPD , OZC , WUX ,VAK 
+138,Feasible,"10,607.46", LSY, LIO , BEH , JHS , LNV ,LSY 
+139,Feasible,"11,158.56", TCE, GEN , STL , NZJ , HNA ,TCE 
+140,Feasible,"11,803.24", MGT, ORN , LKP , DXR , BHO ,MGT 
+141,Feasible,"12,040.19", PFR, CJL , XBK , FZI , ZPC ,PFR 
+142,Feasible,"12,624.13", AVO, XQU , MUK , NKG , SMR ,AVO 
+143,Feasible,"12,641.69", BLE, SNV , SPZ , SXR , HGU ,BLE 
+144,Feasible,"15,720.53", OQU, SGJ , RJA , OUL , COL ,OQU 
+145,Feasible,"16,321.19", OCJ, NCY , FTU , AEP , NPL ,OCJ 
+146,Feasible,"19,417.56", FOC, MVQ , ASI , VEY , TCS ,FOC 
+147,Feasible,"2,944.37", RTG, BSX , HCN , RTB , FYV ,RTG 
+148,Feasible,"20,158.96", LER, MZK , AGN , ZFV , SLH ,LER 
+149,Feasible,"21,155.15", LIT, RWN , JAD , QCJ , BTR ,LIT 
+150,Feasible,"21,867.04", NNB, LWY , ZQF , LNK , MLU ,NNB 
+151,Feasible,"22,127.33", MRB, HKK , SDV , BOU , ZTB ,MRB 
+152,Feasible,"31,440.67", MLB, TMP , MSH , XBG , OMN ,MLB 
+153,Feasible,"34,780.12", PAP, DZA , PDB , MYR , MIA ,PAP 
+154,Feasible,"4,022.76", SNU, FZG , QYD , DUM , LKH ,SNU 
+155,Feasible,"5,300.03", KND, KFS , LTO , SBM , LLW ,KND 
+156,Feasible,"5,438.88", TIJ, XEG , HAE , LYG , WWK ,TIJ 
+157,Feasible,"5,718.26", CUN, STB , CBO , DKS , GVA ,CUN 
+158,Feasible,"7,734.71", ZXB, BUU , HRT , MMB , GOB ,ZXB 
+159,Feasible,"8,411.16", ZFA, ZIH , URG , PUZ , INT ,ZFA 
+160,Feasible,"9,213.92", THS, BWO , MWH , SMT , IQN ,THS 
+161,Feasible,"9,669.75", SDN, PSI , BLT , RUA , BAL ,SDN 
+162,Infeasible,0.00,,,,,,
+163,Infeasible,0.00,,,,,,
+164,Infeasible,0.00,,,,,,
+165,Infeasible,0.00,,,,,,
+166,Infeasible,0.00,,,,,,
+167,Infeasible,0.00,,,,,,
+168,Infeasible,0.00,,,,,,
+169,Infeasible,0.00,,,,,,
+170,Infeasible,0.00,,,,,,
+171,Infeasible,0.00,,,,,,
+172,Infeasible,0.00,,,,,,
+173,Infeasible,0.00,,,,,,
+174,Infeasible,0.00,,,,,,
+175,Infeasible,0.00,,,,,,
+176,Infeasible,0.00,,,,,,
+177,Infeasible,0.00,,,,,,
+178,Infeasible,0.00,,,,,,
+179,Infeasible,0.00,,,,,,
+180,Infeasible,0.00,,,,,,
+181,Infeasible,0.00,,,,,,
+182,Infeasible,0.00,,,,,,
+183,Infeasible,0.00,,,,,,
+184,Infeasible,0.00,,,,,,
+185,Infeasible,0.00,,,,,,
+186,Infeasible,0.00,,,,,,
+187,Infeasible,0.00,,,,,,
+188,Infeasible,0.00,,,,,,
+189,Infeasible,0.00,,,,,,
+190,Infeasible,0.00,,,,,,
+191,Infeasible,0.00,,,,,,
+192,Infeasible,0.00,,,,,,
+193,Infeasible,0.00,,,,,,
+194,Infeasible,0.00,,,,,,
+195,Infeasible,0.00,,,,,,
+196,Infeasible,0.00,,,,,,
+197,Infeasible,0.00,,,,,,
+198,Infeasible,0.00,,,,,,
+199,Infeasible,0.00,,,,,,
+200,Infeasible,0.00,,,,,,
+201,Infeasible,0.00,,,,,,
+202,Infeasible,0.00,,,,,,
+203,Infeasible,0.00,,,,,,
+204,Infeasible,0.00,,,,,,
+205,Infeasible,0.00,,,,,,
+206,Infeasible,0.00,,,,,,
+207,Infeasible,0.00,,,,,,
+208,Infeasible,0.00,,,,,,
+209,Infeasible,0.00,,,,,,
+210,Infeasible,0.00,,,,,,
+211,Infeasible,0.00,,,,,,
+212,Infeasible,0.00,,,,,,
+213,Infeasible,0.00,,,,,,
+214,Infeasible,0.00,,,,,,
+215,Infeasible,0.00,,,,,,
+216,Infeasible,0.00,,,,,,
+217,Infeasible,0.00,,,,,,
+218,Infeasible,0.00,,,,,,
+219,Infeasible,0.00,,,,,,
+220,Infeasible,0.00,,,,,,
+221,Infeasible,0.00,,,,,,
+222,Infeasible,0.00,,,,,,
+223,Infeasible,0.00,,,,,,
+224,Infeasible,0.00,,,,,,
+225,Infeasible,0.00,,,,,,
+226,Infeasible,0.00,,,,,,
+227,Infeasible,0.00,,,,,,
+228,Infeasible,0.00,,,,,,
+229,Infeasible,0.00,,,,,,
+230,Infeasible,0.00,,,,,,
+231,Infeasible,0.00,,,,,,
+232,Infeasible,0.00,,,,,,
+233,Infeasible,0.00,,,,,,
+234,Infeasible,0.00,,,,,,
+235,Infeasible,0.00,,,,,,
+236,Infeasible,0.00,,,,,,
+237,Infeasible,0.00,,,,,,
+238,Infeasible,0.00,,,,,,
+239,Infeasible,0.00,,,,,,
+240,Infeasible,0.00,,,,,,
+241,Infeasible,0.00,,,,,,
+242,Infeasible,0.00,,,,,,
+243,Infeasible,0.00,,,,,,
+244,Infeasible,0.00,,,,,,
+245,Infeasible,0.00,,,,,,
+246,Infeasible,0.00,,,,,,
+247,Infeasible,0.00,,,,,,
+248,Infeasible,0.00,,,,,,
+249,Infeasible,0.00,,,,,,
+250,Infeasible,0.00,,,,,,
+251,Infeasible,0.00,,,,,,
+252,Infeasible,0.00,,,,,,
+253,Infeasible,0.00,,,,,,
+254,Infeasible,0.00,,,,,,
+255,Infeasible,0.00,,,,,,
+256,Infeasible,0.00,,,,,,
+257,Infeasible,0.00,,,,,,
+258,Infeasible,0.00,,,,,,
+259,Infeasible,0.00,,,,,,
+260,Infeasible,0.00,,,,,,
+261,Infeasible,0.00,,,,,,
+262,Infeasible,0.00,,,,,,
+263,Infeasible,0.00,,,,,,
+264,Infeasible,0.00,,,,,,
+265,Infeasible,0.00,,,,,,
+266,Infeasible,0.00,,,,,,
+267,Infeasible,0.00,,,,,,
+268,Infeasible,0.00,,,,,,
+269,Infeasible,0.00,,,,,,
+270,Infeasible,0.00,,,,,,
+271,Infeasible,0.00,,,,,,
+272,Infeasible,0.00,,,,,,
+273,Infeasible,0.00,,,,,,
+274,Infeasible,0.00,,,,,,
+275,Infeasible,0.00,,,,,,
+276,Infeasible,0.00,,,,,,
+277,Infeasible,0.00,,,,,,
+278,Infeasible,0.00,,,,,,
+279,Infeasible,0.00,,,,,,
+280,Infeasible,0.00,,,,,,
+281,Infeasible,0.00,,,,,,
+282,Infeasible,0.00,,,,,,
+283,Infeasible,0.00,,,,,,
+284,Infeasible,0.00,,,,,,
+285,Infeasible,0.00,,,,,,
+286,Infeasible,0.00,,,,,,
+287,Infeasible,0.00,,,,,,
+288,Infeasible,0.00,,,,,,
+289,Infeasible,0.00,,,,,,
+290,Infeasible,0.00,,,,,,
+291,Infeasible,0.00,,,,,,
+292,Infeasible,0.00,,,,,,
+293,Infeasible,0.00,,,,,,
+294,Infeasible,0.00,,,,,,
+295,Infeasible,0.00,,,,,,
+296,Infeasible,0.00,,,,,,
+297,Infeasible,0.00,,,,,,
+298,Infeasible,0.00,,,,,,
+299,Infeasible,0.00,,,,,,
+300,Infeasible,0.00,,,,,,
+301,Infeasible,0.00,,,,,,
+302,Infeasible,0.00,,,,,,
+303,Infeasible,0.00,,,,,,
+304,Infeasible,0.00,,,,,,
+305,Infeasible,0.00,,,,,,
+306,Infeasible,0.00,,,,,,
+307,Infeasible,0.00,,,,,,
+308,Infeasible,0.00,,,,,,
+309,Infeasible,0.00,,,,,,
+310,Infeasible,0.00,,,,,,
+311,Infeasible,0.00,,,,,,
+312,Infeasible,0.00,,,,,,
+313,Infeasible,0.00,,,,,,
+314,Infeasible,0.00,,,,,,
+315,Infeasible,0.00,,,,,,
+316,Infeasible,0.00,,,,,,
+317,Infeasible,0.00,,,,,,
+318,Infeasible,0.00,,,,,,
+319,Infeasible,0.00,,,,,,
+320,Infeasible,0.00,,,,,,
+321,Infeasible,0.00,,,,,,
+322,Infeasible,0.00,,,,,,
+323,Infeasible,0.00,,,,,,
+324,Infeasible,0.00,,,,,,
+325,Infeasible,0.00,,,,,,
+326,Infeasible,0.00,,,,,,
+327,Infeasible,0.00,,,,,,
+328,Infeasible,0.00,,,,,,
+329,Infeasible,0.00,,,,,,
+330,Infeasible,0.00,,,,,,
+331,Infeasible,0.00,,,,,,
+332,Infeasible,0.00,,,,,,
+333,Infeasible,0.00,,,,,,
+334,Infeasible,0.00,,,,,,
+335,Infeasible,0.00,,,,,,
+336,Infeasible,0.00,,,,,,
+337,Infeasible,0.00,,,,,,
+338,Infeasible,0.00,,,,,,
+339,Infeasible,0.00,,,,,,
+340,Infeasible,0.00,,,,,,
+341,Infeasible,0.00,,,,,,
+342,Infeasible,0.00,,,,,,
+343,Infeasible,0.00,,,,,,
+344,Infeasible,0.00,,,,,,
+345,Infeasible,0.00,,,,,,
+346,Infeasible,0.00,,,,,,
+347,Infeasible,0.00,,,,,,
+348,Infeasible,0.00,,,,,,
+349,Infeasible,0.00,,,,,,
+350,Infeasible,0.00,,,,,,
+351,Infeasible,0.00,,,,,,
+352,Infeasible,0.00,,,,,,
+353,Infeasible,0.00,,,,,,
+354,Infeasible,0.00,,,,,,
+355,Infeasible,0.00,,,,,,
+356,Infeasible,0.00,,,,,,
+357,Infeasible,0.00,,,,,,
+358,Infeasible,0.00,,,,,,
+359,Infeasible,0.00,,,,,,
+360,Infeasible,0.00,,,,,,
+361,Infeasible,0.00,,,,,,
+362,Infeasible,0.00,,,,,,
+363,Infeasible,0.00,,,,,,
+364,Infeasible,0.00,,,,,,
+365,Infeasible,0.00,,,,,,
+366,Infeasible,0.00,,,,,,
+367,Infeasible,0.00,,,,,,
+368,Infeasible,0.00,,,,,,
+369,Infeasible,0.00,,,,,,
+370,Infeasible,0.00,,,,,,
+371,Infeasible,0.00,,,,,,
+372,Infeasible,0.00,,,,,,
+373,Infeasible,0.00,,,,,,
+374,Infeasible,0.00,,,,,,
+375,Infeasible,0.00,,,,,,
+376,Infeasible,0.00,,,,,,
+377,Infeasible,0.00,,,,,,
+378,Infeasible,0.00,,,,,,
+379,Infeasible,0.00,,,,,,
+380,Infeasible,0.00,,,,,,
+381,Infeasible,0.00,,,,,,
+382,Infeasible,0.00,,,,,,
+383,Infeasible,0.00,,,,,,
+384,Infeasible,0.00,,,,,,
+385,Infeasible,0.00,,,,,,
+386,Infeasible,0.00,,,,,,
+387,Infeasible,0.00,,,,,,
+388,Infeasible,0.00,,,,,,
+389,Infeasible,0.00,,,,,,
+390,Infeasible,0.00,,,,,,
+391,Infeasible,0.00,,,,,,
+392,Infeasible,0.00,,,,,,
+393,Infeasible,0.00,,,,,,
+394,Infeasible,0.00,,,,,,
+395,Infeasible,0.00,,,,,,
+396,Infeasible,0.00,,,,,,
+397,Infeasible,0.00,,,,,,
+398,Infeasible,0.00,,,,,,
+399,Infeasible,0.00,,,,,,
+400,Infeasible,0.00,,,,,,
+401,Infeasible,0.00,,,,,,
+402,Infeasible,0.00,,,,,,
+403,Infeasible,0.00,,,,,,
+404,Infeasible,0.00,,,,,,
+405,Infeasible,0.00,,,,,,
+406,Infeasible,0.00,,,,,,
+407,Infeasible,0.00,,,,,,
+408,Infeasible,0.00,,,,,,
+409,Infeasible,0.00,,,,,,
+410,Infeasible,0.00,,,,,,
+411,Infeasible,0.00,,,,,,
+412,Infeasible,0.00,,,,,,
+413,Infeasible,0.00,,,,,,
+414,Infeasible,0.00,,,,,,
+415,Infeasible,0.00,,,,,,
+416,Infeasible,0.00,,,,,,
+417,Infeasible,0.00,,,,,,
+418,Infeasible,0.00,,,,,,
+419,Infeasible,0.00,,,,,,
+420,Infeasible,0.00,,,,,,
+421,Infeasible,0.00,,,,,,
+422,Infeasible,0.00,,,,,,
+423,Infeasible,0.00,,,,,,
+424,Infeasible,0.00,,,,,,
+425,Infeasible,0.00,,,,,,
+426,Infeasible,0.00,,,,,,
+427,Infeasible,0.00,,,,,,
+428,Infeasible,0.00,,,,,,
+429,Infeasible,0.00,,,,,,
+430,Infeasible,0.00,,,,,,
+431,Infeasible,0.00,,,,,,
+432,Infeasible,0.00,,,,,,
+433,Infeasible,0.00,,,,,,
+434,Infeasible,0.00,,,,,,
+435,Infeasible,0.00,,,,,,
+436,Infeasible,0.00,,,,,,
+437,Infeasible,0.00,,,,,,
+438,Infeasible,0.00,,,,,,
+439,Infeasible,0.00,,,,,,
+440,Infeasible,0.00,,,,,,
+441,Infeasible,0.00,,,,,,
+442,Infeasible,0.00,,,,,,
+443,Infeasible,0.00,,,,,,
+444,Infeasible,0.00,,,,,,
+445,Infeasible,0.00,,,,,,
+446,Infeasible,0.00,,,,,,
+447,Infeasible,0.00,,,,,,
+448,Infeasible,0.00,,,,,,
+449,Infeasible,0.00,,,,,,
+450,Infeasible,0.00,,,,,,
+451,Infeasible,0.00,,,,,,
+452,Infeasible,0.00,,,,,,
+453,Infeasible,0.00,,,,,,
+454,Infeasible,0.00,,,,,,
+455,Infeasible,0.00,,,,,,
+456,Infeasible,0.00,,,,,,
+457,Infeasible,0.00,,,,,,
+458,Infeasible,0.00,,,,,,
+459,Infeasible,0.00,,,,,,
+460,Infeasible,0.00,,,,,,
+461,Infeasible,0.00,,,,,,
+462,Infeasible,0.00,,,,,,
+463,Infeasible,0.00,,,,,,
+464,Infeasible,0.00,,,,,,
+465,Infeasible,0.00,,,,,,
+466,Infeasible,0.00,,,,,,
+467,Infeasible,0.00,,,,,,
+468,Infeasible,0.00,,,,,,
+469,Infeasible,0.00,,,,,,
+470,Infeasible,0.00,,,,,,
+471,Infeasible,0.00,,,,,,
+472,Infeasible,0.00,,,,,,
+473,Infeasible,0.00,,,,,,
+474,Infeasible,0.00,,,,,,
+475,Infeasible,0.00,,,,,,
+476,Infeasible,0.00,,,,,,
+477,Infeasible,0.00,,,,,,
+478,Infeasible,0.00,,,,,,
+479,Infeasible,0.00,,,,,,
+480,Infeasible,0.00,,,,,,
+481,Infeasible,0.00,,,,,,
+482,Infeasible,0.00,,,,,,
+483,Infeasible,0.00,,,,,,
+484,Infeasible,0.00,,,,,,
+485,Infeasible,0.00,,,,,,
+486,Infeasible,0.00,,,,,,
+487,Infeasible,0.00,,,,,,
+488,Infeasible,0.00,,,,,,
+489,Infeasible,0.00,,,,,,
+490,Infeasible,0.00,,,,,,
+491,Infeasible,0.00,,,,,,
+492,Infeasible,0.00,,,,,,
+493,Infeasible,0.00,,,,,,
+494,Infeasible,0.00,,,,,,
+495,Infeasible,0.00,,,,,,
+496,Infeasible,0.00,,,,,,
+497,Infeasible,0.00,,,,,,
+498,Infeasible,0.00,,,,,,
+499,Infeasible,0.00,,,,,,
