@@ -1,0 +1,500 @@
+"['LOV', 'BHI', 'BBO', 'VCS', 'VKO', 'LOV']",1658.6244275911931
+"['YOD', 'ZML', 'CGO', 'EMD', 'SMR', 'YOD']",11646.063452669732
+"['AUY', 'BPX', 'ABT', 'YVB', 'VOK', 'AUY']",11957.728654823797
+"['JOK', 'TMP', 'YUL', 'STE', 'KPC', 'JOK']",12019.179697584084
+"['VCV', 'COR', 'LPG', 'CZW', 'YKX', 'VCV']",12144.754355359899
+"['LIF', 'PIO', 'DKR', 'UUU', 'VEL', 'LIF']",12520.545536586922
+"['MEY', 'VNA', 'LYI', 'ZML', 'ARE', 'MEY']",12709.832521654083
+"['SHM', 'BEZ', 'PZI', 'QSF', 'AUW', 'SHM']",12872.88856485937
+"['UYN', 'KPB', 'YGV', 'POL', 'NLA', 'UYN']",12932.187251931904
+"['VOH', 'TTU', 'RHO', '3W2', 'OAJ', 'VOH']",12953.319102603218
+"['MJM', 'FJR', 'FMO', 'HVR', 'DSO', 'MJM']",13386.451042997236
+"['BMY', 'GLK', 'ASB', 'BRR', 'GAI', 'BMY']",13561.479765589533
+"['ANN', 'SHR', 'GNY', 'TJS', 'YNZ', 'ANN']",13856.530834432171
+"['AGF', 'SKB', 'EFD', 'YCR', 'LBZ', 'AGF']",14072.089159583407
+"['GHB', 'ZNZ', 'HEN', 'YSJ', 'UGN', 'GHB']",15589.45796534676
+"['MLG', 'XTG', 'REY', 'GEU', 'BJV', 'MLG']",15663.677425749396
+"['BRW', 'GUL', 'SYO', 'HOV', 'PPW', 'BRW']",15959.61262423782
+"['SWQ', 'KTR', 'MXY', 'NXX', 'MJD', 'SWQ']",16726.603971131448
+"['SHM', 'HAK', 'HER', 'CWL', 'YCB', 'SHM']",16745.62898351455
+"['DKI', 'GNA', 'BJF', 'YHU', 'ALI', 'DKI']",17001.83439289815
+"['BRS', 'KDI', 'VLS', 'KGE', 'YNM', 'BRS']",17042.076553042596
+"['FAV', 'SNY', 'ZAR', 'SAW', 'KEK', 'FAV']",17268.85427969402
+"['NTL', 'ZAH', 'YPY', 'YWH', 'JHM', 'NTL']",18500.412006715087
+"['QSF', 'SNN', 'HHH', 'EMD', 'PJA', 'QSF']",20418.526762966005
+"['HAK', 'NFO', 'YRA', 'YMG', 'CSF', 'HAK']",20990.428033707944
+"['KIR', 'DLE', 'CMR', 'NON', 'MTN', 'KIR']",28263.03755594039
+"['HDB', 'LDN', 'PZI', 'JZH', 'SKX', 'HDB']",3028.031485558598
+"['LML', 'SBA', 'CID', 'O03', 'ZMU', 'LML']",30461.183915404763
+"['KUC', 'HPB', 'MHK', 'FDH', 'PYR', 'KUC']",31788.29539307794
+"['IOM', 'BRO', 'WSZ', 'QFZ', 'XWW', 'IOM']",38957.46909790602
+"['AKR', 'KYA', 'SCV', 'XDB', 'LPY', 'AKR']",4199.988438413582
+"['ADF', 'KYD', 'WDH', 'SFD', 'TED', 'ADF']",4895.898180800684
+"['SGD', 'BMK', 'SUG', 'TSU', 'XIL', 'SGD']",6672.685341878278
+"['SEM', 'VST', 'PGU', 'OBX', 'CVM', 'SEM']",6864.344664888456
+"['SMO', 'RTW', 'MXX', 'YPQ', 'CDS', 'SMO']",8468.319676202329
+"['LSY', 'AHE', 'BYO', 'BLR', 'LXG', 'LSY']",8732.00701083806
+"['DVO', 'PFQ', 'LEQ', 'PBM', 'MUB', 'DVO']",9090.750607159693
+"['TTR', 'KSA', 'NCS', 'BEL', 'RKE', 'TTR']",9434.175839718428
+"['CEF', 'OKN', 'ZRJ', 'PSC', 'MLS', 'CEF']",13740.151929678166
+"['MPY', 'GSQ', 'EVE', 'ZPB', 'CXL', 'MPY']",15591.737981991444
+"['BQT', 'OSH', 'LES', 'ZAT', 'PTG', 'BQT']",16236.365733793884
+"['YPM', 'PNB', 'MSU', 'MVV', 'FOA', 'YPM']",17974.940541234075
+"['BCO', 'AMM', 'COF', 'QSA', 'NGX', 'BCO']",21635.811909981036
+"['MGQ', 'ZAG', 'KSK', 'LRV', 'JDO', 'MGQ']",3265.608812153233
+"['ENH', 'LSZ', 'FNC', 'YHN', 'GWD', 'ENH']",9145.411537474823
+"['AQJ', 'RRS', 'YQG', 'MYJ', 'TEQ', 'AQJ']",10166.449883804798
+"['2B2', 'ROA', 'MMH', 'ZAL', 'CIJ', '2B2']",10315.617172564449
+"['BUU', 'SST', 'DUE', 'IAS', 'HUL', 'BUU']",10490.78223684078
+"['TYE', 'NYT', 'JIB', 'VDS', 'CWI', 'TYE']",11414.809189859006
+"['STK', 'OTU', 'BIX', 'PAH', 'KXK', 'STK']",11583.920320998044
+"['UVF', 'GLQ', 'YJS', 'RAZ', 'BCW', 'UVF']",13673.878776650074
+"['UTC', 'HMN', 'WFB', 'ZAJ', 'THF', 'UTC']",16341.467955785203
+"['CPX', 'RIC', 'PUB', 'CGN', 'SLA', 'CPX']",18388.55782010035
+"['QPP', 'KTG', 'CYF', 'BSC', 'YGW', 'QPP']",19031.175722014985
+"['YLD', 'MVT', 'PUK', 'PGA', 'MHG', 'YLD']",19872.427241620288
+"['UIN', 'RGS', 'UBP', 'ILI', 'RAP', 'UIN']",20588.10952881012
+"['MQT', 'BDR', 'HOM', 'GNI', 'WJA', 'MQT']",21779.048721280997
+"['BIL', 'AJU', 'NCS', 'LRH', 'LUR', 'BIL']",22783.190406951944
+"['AXJ', 'ESH', 'SDE', 'BMG', 'JAC', 'AXJ']",23995.97733071944
+"['DSN', 'ULX', 'WVB', 'ZAH', 'SLD', 'DSN']",6137.906632840967
+"['MME', 'RMG', 'VVO', 'MUX', 'PKV', 'MME']",9147.7057787419
+"['AWZ', 'KSH', 'PHO', 'KKH', 'YQL', 'AWZ']",11196.002325354837
+"['DZN', 'YXY', 'POC', 'CUR', 'UKA', 'DZN']",11911.930159413087
+"['CZG', 'CEK', 'CZN', 'MLD', 'ERI', 'CZG']",12205.741233598237
+"['AAE', 'LWN', 'VEE', 'JOT', 'NEC', 'AAE']",12953.59616933887
+"['YBZ', 'FDF', 'KHW', 'ULV', 'SPZ', 'YBZ']",16258.164031498636
+"['YXC', 'BBM', 'QUA', 'YYZ', 'LBL', 'YXC']",16804.042562971907
+"['MCM', 'MYG', 'TLH', 'TTJ', 'GSS', 'MCM']",17689.462263844132
+"['KCT', 'CTL', 'HVG', 'KPC', 'HGR', 'KCT']",17780.02152795586
+"['BMW', 'GYL', 'PNP', 'UIT', 'HHI', 'BMW']",17925.24450247383
+"['HVN', 'CBT', 'JRH', 'BDB', 'JON', 'HVN']",21127.75805324441
+"['ZRP', 'GIC', 'MJK', 'MUW', 'KEL', 'ZRP']",21654.724539367606
+"['FDW', 'WKJ', 'HID', 'VTS', 'IWD', 'FDW']",25390.59279701107
+"['ZBP', 'ASH', 'MQT', 'PJM', 'NGU', 'ZBP']",5125.880809670993
+"['SOB', 'ENF', 'IQQ', 'UVA', 'TRK', 'SOB']",8539.347107022257
+"['JYL', 'MKU', 'LKG', 'TTR', 'EYK', 'JYL']",8660.89422437622
+"['CIY', 'MAR', 'BKD', 'ZUN', 'MCX', 'CIY']",8819.743817934163
+"['PKB', 'MCG', 'PBV', 'PLD', 'BHM', 'PKB']",9371.10587204482
+"['LSA', 'DRK', 'DLH', 'KYS', 'RKE', 'LSA']",9825.400298725512
+"['IGB', 'BMW', 'SEY', 'YPE', 'HYS', 'IGB']",10415.823825145948
+"['YHY', 'IXZ', 'HUI', 'KLL', 'ZSJ', 'YHY']",12519.17867760339
+"['SZX', 'PRY', 'OLC', 'EAT', 'CLS', 'SZX']",12880.038747232002
+"['HHN', 'CFR', 'ADM', 'ELY', 'KLC', 'HHN']",13915.273511010128
+"['AOT', 'BHB', 'KHW', 'NAW', 'HRE', 'AOT']",14278.299917691074
+"['MZP', 'KWM', 'BBO', 'BJZ', 'VDR', 'MZP']",17046.69259609999
+"['AJL', 'ADX', '0G7', 'HKD', 'GAN', 'AJL']",17088.51746518198
+"['LHC', 'FKB', 'NBS', 'YAZ', 'SCL', 'LHC']",17476.648540285205
+"['ANR', 'OSN', 'PBD', 'SAY', 'JPR', 'ANR']",18095.983104039267
+"['BOH', 'SFS', 'WEL', 'CWB', 'WAL', 'BOH']",18533.523320285356
+"['MKO', 'LKK', 'JYV', 'CER', 'KIF', 'MKO']",19556.502041762757
+"['HTL', 'HLG', 'AUF', 'ASD', 'E63', 'HTL']",19953.89099223553
+"['PDV', 'PKN', 'ISB', 'SGD', 'RCS', 'PDV']",2884.786866292718
+"['IWS', 'BRN', 'CBO', 'BLT', 'KVL', 'IWS']",27513.1900606055
+"['RMS', 'AMM', 'ABE', 'BLD', 'LTX', 'RMS']",31206.74489144077
+"['TRC', 'TPL', 'CEF', 'TLU', 'RES', 'TRC']",4153.486598856322
+"['GKE', 'BHD', 'QOT', 'IXL', 'CMR', 'GKE']",7607.273607235759
+"['MGQ', 'DIW', 'JRO', 'OLC', 'YSY', 'MGQ']",10384.620322296108
+"['COI', 'BMX', 'LED', 'ONQ', 'KYS', 'COI']",13855.558412132177
+"['GAJ', 'COH', 'BIQ', 'DAW', 'ECG', 'GAJ']",14278.324710559578
+"['AXJ', 'YOC', 'GGT', 'ACC', 'SDV', 'AXJ']",14543.57068054114
+"['AGS', 'MHV', 'YXZ', 'QRW', 'PSE', 'AGS']",15185.524841913868
+"['CSO', 'MLC', 'OSN', 'WMP', 'UTN', 'CSO']",16873.252770324514
+"['BXH', 'ZSN', 'HHN', 'PLL', 'K03', 'BXH']",17600.912431156285
+"['GPT', 'XCD', 'YNS', 'CMX', 'REI', 'GPT']",18174.721571558046
+"['WSJ', 'GTN', 'MTY', 'PID', '1G4', 'WSJ']",18229.20081981211
+"['JMK', 'CFB', 'AAO', 'CKV', 'ELY', 'JMK']",19970.92051164913
+"['WTE', '19A', 'DAW', 'QQW', 'MNL', 'WTE']",24344.87261011511
+"['SCW', 'PAS', 'CSK', 'BSX', 'BZL', 'SCW']",3375.391079381055
+"['NGZ', 'KAT', 'CVO', 'NQT', 'BZZ', 'NGZ']",36979.125488560065
+"['XGB', 'LOK', 'GDA', 'ADF', 'KUT', 'XGB']",4807.749813980457
+"['WHF', 'KON', 'SVX', 'AAH', 'IBE', 'WHF']",5485.148868154523
+"['GME', 'STR', 'UAK', 'C89', 'CWI', 'GME']",5574.930234293821
+"['FIE', 'AXD', 'PUU', 'MQH', 'SOO', 'FIE']",6407.342356846581
+"['HUX', 'JOK', 'ODB', 'DYU', 'NAQ', 'HUX']",6958.199715324226
+"['GSP', 'FUT', 'UIK', 'PZB', 'CEE', 'GSP']",9087.89771583889
+"['QPZ', 'BBM', 'TED', 'TSS', 'OMO', 'QPZ']",11162.021206994514
+"['ESH', 'KOI', 'GER', 'IAG', 'QXB', 'ESH']",11664.781807348352
+"['MTM', 'TIA', 'FWM', 'C02', 'VCV', 'MTM']",13944.448597717816
+"['GUS', '38W', 'TML', 'GHB', 'NIP', 'GUS']",15452.058532216832
+"['GZO', 'KKC', 'QNC', 'YPO', 'VOK', 'GZO']",16016.200178554738
+"['NCA', 'SJU', 'BMX', 'PTU', 'KZB', 'NCA']",16412.349722506297
+"['BBN', 'DEZ', 'LMO', 'MEM', 'RKS', 'BBN']",17096.43802680327
+"['COU', 'RNL', 'LIK', 'MZR', 'SOY', 'COU']",17837.13486234079
+"['PEU', 'RSI', 'ERN', 'QPZ', 'BTT', 'PEU']",18512.755361598593
+"['MKK', 'AEP', 'LBE', 'BYN', 'ATP', 'MKK']",18731.829595703057
+"['FEL', 'RMP', 'LNV', 'MZT', 'YOO', 'FEL']",19932.737067496597
+"['YHF', 'NY9', 'DLF', 'DLC', 'MHZ', 'YHF']",21201.763440290102
+"['REC', 'YCB', 'KOZ', 'MTL', 'GUW', 'REC']",21275.675618327397
+"['YRG', 'SJI', 'CUA', 'HTL', 'YIF', 'YRG']",5928.8976625935675
+"['GDN', 'KNO', 'YCS', 'PAN', 'TIY', 'GDN']",6506.889338367627
+"['CWC', 'CMF', 'BOO', 'CDR', 'LWN', 'CWC']",8279.483165731055
+"['TNJ', 'QPJ', 'GLQ', 'MQT', 'YSF', 'TNJ']",9352.750005207472
+"['NUW', 'FGI', 'ABA', 'URS', 'PYJ', 'NUW']",9939.82566803223
+"['OKO', 'LHW', 'ALY', 'PSH', 'PPC', 'OKO']",10554.100759295214
+"['L52', 'FAF', 'CSK', 'FLR', 'PWE', 'L52']",13521.209111333337
+"['QQW', 'YPL', 'NXP', 'N69', 'CVF', 'QQW']",17966.849303270494
+"['PYM', 'OXC', 'SCE', 'HDO', 'NAQ', 'PYM']",7269.390911513776
+"['VAK', 'BIL', 'LPD', 'OZC', 'WUX', 'VAK']",10394.879857527849
+"['LSY', 'LIO', 'BEH', 'JHS', 'LNV', 'LSY']",10607.455355148437
+"['TCE', 'GEN', 'STL', 'NZJ', 'HNA', 'TCE']",11158.564271990537
+"['MGT', 'ORN', 'LKP', 'DXR', 'BHO', 'MGT']",11803.236334450145
+"['PFR', 'CJL', 'XBK', 'FZI', 'ZPC', 'PFR']",12040.194561003978
+"['AVO', 'XQU', 'MUK', 'NKG', 'SMR', 'AVO']",12624.13355025511
+"['BLE', 'SNV', 'SPZ', 'SXR', 'HGU', 'BLE']",12641.690772389784
+"['OQU', 'SGJ', 'RJA', 'OUL', 'COL', 'OQU']",15720.530179329402
+"['OCJ', 'NCY', 'FTU', 'AEP', 'NPL', 'OCJ']",16321.185999221663
+"['FOC', 'MVQ', 'ASI', 'VEY', 'TCS', 'FOC']",19417.555246964675
+"['RTG', 'BSX', 'HCN', 'RTB', 'FYV', 'RTG']",2944.371805671485
+"['LER', 'MZK', 'AGN', 'ZFV', 'SLH', 'LER']",20158.959680403117
+"['LIT', 'RWN', 'JAD', 'QCJ', 'BTR', 'LIT']",21155.145665322358
+"['NNB', 'LWY', 'ZQF', 'LNK', 'MLU', 'NNB']",21867.04118692048
+"['MRB', 'HKK', 'SDV', 'BOU', 'ZTB', 'MRB']",22127.334817101528
+"['MLB', 'TMP', 'MSH', 'XBG', 'OMN', 'MLB']",31440.66863788525
+"['PAP', 'DZA', 'PDB', 'MYR', 'MIA', 'PAP']",34780.11829359517
+"['SNU', 'FZG', 'QYD', 'DUM', 'LKH', 'SNU']",4022.759338011816
+"['KND', 'KFS', 'LTO', 'SBM', 'LLW', 'KND']",5300.028532827188
+"['TIJ', 'XEG', 'HAE', 'LYG', 'WWK', 'TIJ']",5438.877390410824
+"['CUN', 'STB', 'CBO', 'DKS', 'GVA', 'CUN']",5718.258085422651
+"['ZXB', 'BUU', 'HRT', 'MMB', 'GOB', 'ZXB']",7734.7109947211875
+"['ZFA', 'ZIH', 'URG', 'PUZ', 'INT', 'ZFA']",8411.156239483775
+"['THS', 'BWO', 'MWH', 'SMT', 'IQN', 'THS']",9213.920214947373
+"['SDN', 'PSI', 'BLT', 'RUA', 'BAL', 'SDN']",9669.750790051416
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf
+[],inf

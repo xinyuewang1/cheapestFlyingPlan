@@ -23,10 +23,29 @@ Term project, calculate the cheapest route among certain cities with certain air
 * Documentation: https://comp20230termproject.readthedocs.io.
 
 
-Features
---------
+----------------------------------------------------------
+*****Features*****Read here to see how to use this package
+----------------------------------------------------------
+Two way to use through terminal:
 
-* TODO
+* Go to comp20230termproject directory, start the terminal here, run
+'python cli.py'. 
+	Options:
+	  -i TEXT    Input file for route calculation.
+	  --ac TEXT  Mandatory Columns: code, units, range
+	  --aa TEXT  Mandatory Columns: AirportName, Country, Latitude, Longitude
+	  --ci TEXT  Mandatory Columns: CurrencyCode, toEUR
+	  --cc TEXT  Mandatory Columns: name, currency_alphabetic_code
+	  -o TEXT    Output to a named file.
+	  --help     Show this message and exit.
+
+	It will prompt for input/output file if you don't type it in directly.
+
+* Install this package from github repository:
+	
+	pip install git+https://github.com/xinyuewang1/cheapestFlyingPlan.git
+	Then run 'xinyuewang' is the same as 'python cli.py' above.
+
 
 Credits
 -------
