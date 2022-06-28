@@ -1,4 +1,4 @@
-arrow==0.12.1
+arrow==0.15.1
 binaryornot==0.4.4
 bleach==2.1.2
 certifi==2018.4.16
